@@ -39,8 +39,8 @@ while True:
     if now_hour == hour:
         if now_min == minute:
             if now_sec == second:
-                print('Вставай, Донбасс')
-                playsound('C:/Users/User/Downloads/Психоделический камешек.mp3')
+                print('Пора просыпаться, друг мой')
+                playsound('Здесь вы пишите путь к муз.файлу')
                 break
 
 
